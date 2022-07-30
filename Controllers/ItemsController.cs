@@ -19,6 +19,8 @@ namespace Catalog.Controllers
     {
         private readonly IItemsRepository repository;
 
+        public int MyProperty { get; set; }
+
         public ItemsController(IItemsRepository repository)
         {
             // * Dependency injection
