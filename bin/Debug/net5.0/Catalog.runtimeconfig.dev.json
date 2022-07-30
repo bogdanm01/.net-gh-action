@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rbtintern4/.dotnet/store/|arch|/|tfm|",
+      "/Users/rbtintern4/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rbtintern4/Desktop/Catalog/Catalog.csproj": {}
+  },
+  "projects": {
+    "/Users/rbtintern4/Desktop/Catalog/Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rbtintern4/Desktop/Catalog/Catalog.csproj",
+        "projectName": "Catalog",
+        "projectPath": "/Users/rbtintern4/Desktop/Catalog/Catalog.csproj",
+        "packagesPath": "/Users/rbtintern4/.nuget/packages/",
+        "outputPath": "/Users/rbtintern4/Desktop/Catalog/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rbtintern4/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.driver": {
+              "target": "Package",
+              "version": "[2.16.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "cls": {
+              "target": "Package",
+              "version": "[1.200.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
