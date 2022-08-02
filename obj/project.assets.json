@@ -833,11 +833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rbtintern4/Desktop/Catalog/Catalog.csproj",
+      "projectUniqueName": "/Users/rbtintern4/.net-gh-action/Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "/Users/rbtintern4/Desktop/Catalog/Catalog.csproj",
+      "projectPath": "/Users/rbtintern4/.net-gh-action/Catalog.csproj",
       "packagesPath": "/Users/rbtintern4/.nuget/packages/",
-      "outputPath": "/Users/rbtintern4/Desktop/Catalog/obj/",
+      "outputPath": "/Users/rbtintern4/.net-gh-action/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rbtintern4/.nuget/NuGet/NuGet.Config"

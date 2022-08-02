@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7BwHynmVxiG4Hs2DO7idQK2vTmLAaiuqDubo5b7Y2TkHCoi6swuKlVFZKvbetYRetDSCl1hjw3vOvpDxVtT7w==",
+  "dgSpecHash": "notNpY2F0twvkyomxoSBBz9ZF/KC7gbiMLsnKnwNpEj9ey7+X8ti4esXKUKHVtO6dhGYScdVJOKOfV3CnRiMDQ==",
   "success": true,
-  "projectFilePath": "/Users/rbtintern4/Desktop/Catalog/Catalog.csproj",
+  "projectFilePath": "/Users/rbtintern4/.net-gh-action/Catalog.csproj",
   "expectedPackageFiles": [
     "/Users/rbtintern4/.nuget/packages/cls/1.200.1.1/cls.1.200.1.1.nupkg.sha512",
     "/Users/rbtintern4/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
