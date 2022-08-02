@@ -43,3 +43,13 @@
 /Users/rbtintern4/Desktop/Catalog/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
 /Users/rbtintern4/Desktop/Catalog/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
 /Users/rbtintern4/Desktop/Catalog/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.csproj.AssemblyReference.cache
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.AssemblyInfoInputs.cache
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.AssemblyInfo.cs
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.csproj.CoreCompileInputs.cache
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.MvcApplicationPartsAssemblyInfo.cs
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.MvcApplicationPartsAssemblyInfo.cache
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.dll
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/refint/Catalog.dll
+/Users/rbtintern4/.net-gh-action/obj/Debug/net5.0/Catalog.pdb

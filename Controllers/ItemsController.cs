@@ -52,10 +52,7 @@ namespace Catalog.Controllers
         [HttpPost]
         public async Task<ActionResult<ItemDto>> CreateItem(CreateItemDto itemDto)
         {
-
-            var nem = 2;
-
-            Item item = new()
+            Item item = new(
             {
                 Id = Guid.NewGuid(),
                 Name = itemDto.Name,
